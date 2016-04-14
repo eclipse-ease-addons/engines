@@ -67,8 +67,7 @@
 		<module>../../features/org.eclipse.ease.engine.jython.feature</module>
 
 		<!-- releng -->
-		
-		
+		<module>../org.eclipse.ease.engines.releng.p2</module>
 	</modules>
 
 

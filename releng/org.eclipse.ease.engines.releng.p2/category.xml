@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature id="org.eclipse.ease.engine.jython.feature" version="0.3.0.qualifier">
+      <category name="ease_engines"/>
+   </feature>
+   <category-def name="ease_engines" label="EASE Engines">
+      <description>
+         Additional scripting engines binaries for EASE. Needs an additional engine adapter from the main update site to work.
+      </description>
+   </category-def>
+</site>
