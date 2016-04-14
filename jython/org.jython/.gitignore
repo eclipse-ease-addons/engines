@@ -1,0 +1,4 @@
+/bin/
+/cachedir/
+/target/
+/Lib/**/*.class
