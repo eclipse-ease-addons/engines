@@ -3,9 +3,8 @@ Bundle-ManifestVersion: 2
 Bundle-Name: Jython Binaries
 Bundle-SymbolicName: org.jython
 Bundle-Version: 2.7.0.qualifier
-Bundle-ClassPath: .
-Export-Package: .,
- com.kenai.constantine,
+Bundle-ClassPath: jython.jar
+Export-Package: com.kenai.constantine,
  com.kenai.constantine.platform,
  com.kenai.jffi,
  com.kenai.jffi.internal,
