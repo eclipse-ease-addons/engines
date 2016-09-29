@@ -270,4 +270,11 @@ groovydoc and docgenerator components for groovy-jdk/gapi documentation.
 It is made available under a MIT License. Details: licenses/normalize-stylesheet-license.txt
    </license>
 
+   <plugin
+         id="org.codehaus.groovy"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
 </feature>
