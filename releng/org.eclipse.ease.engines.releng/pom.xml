@@ -62,9 +62,11 @@
 
 		<!-- engines -->
 		<module>../../jython/org.jython</module>
+		<module>../../groovy/org.codehaus.groovy</module>
 
 		<!-- features -->
 		<module>../../features/org.eclipse.ease.engine.jython.feature</module>
+		<module>../../features/org.eclipse.ease.engine.groovy.feature</module>
 
 		<!-- releng -->
 		<module>../org.eclipse.ease.engines.releng.p2</module>
