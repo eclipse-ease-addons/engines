@@ -4,6 +4,7 @@ Bundle-Name: Groovy Embeddable
 Bundle-SymbolicName: org.codehaus.groovy
 Bundle-Version: 2.4.6.qualifier
 Bundle-ClassPath: .
+Eclipse-BuddyPolicy: global
 Export-Package: groovy.beans,
  groovy.grape,
  groovy.inspect,
